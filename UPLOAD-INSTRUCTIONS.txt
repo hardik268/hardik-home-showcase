@@ -1,0 +1,20 @@
+HARDIK HOME DESIGN — GITHUB PAGES UPLOAD
+
+1. Extract the ZIP file on your computer.
+2. Open: https://github.com/hardik268/hardik-home-showcase
+3. Click "Add file" and then "Upload files".
+4. Open the extracted folder and select ALL files and folders inside it.
+   Important: upload the contents, not the ZIP file itself.
+5. Drag the selected contents onto the GitHub upload page.
+6. At the bottom, click "Commit changes".
+7. In the repository, open Settings > Pages.
+8. Under "Build and deployment":
+   - Source: Deploy from a branch
+   - Branch: main
+   - Folder: /(root)
+9. Click Save and wait 2–5 minutes.
+
+Your website address will be:
+https://hardik268.github.io/hardik-home-showcase/
+
+The .nojekyll file is required. Make sure it is included in the upload.
